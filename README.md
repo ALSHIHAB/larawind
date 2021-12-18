@@ -1,5 +1,9 @@
 # Larawind - Laravel 8.0+ Jetstream and Tailwind CSS Admin Theme
 
+Changes: Upgrade Laravel to Version 8.76.2
+		 Jetstream to Version 2.5.0
+		 Tailwind css 3.0.7
+		 Upgrade other repositories and plugins (forms, colors, alpinejs, typography ...) 
 This project is created with [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html) Framework and [Tailwind CSS](https://tailwindcss.com), the admin environment is desing by [Windmill Dashboard](https://windmill-dashboard.vercel.app/).
 
 ## Requirements

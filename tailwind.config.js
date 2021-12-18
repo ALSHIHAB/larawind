@@ -31,6 +31,7 @@ module.exports = {
                 '700': '#24262d',
                 '800': '#1a1c23',
                 '900': '#121317',
+                
                 // default values from Tailwind UI palette
                 // '300': '#d2d6dc',
                 // '400': '#9fa6b2',
@@ -203,8 +204,7 @@ module.exports = {
 
     plugins: [
         require('tailwindcss-multi-theme'),
-        require('@tailwindcss/custom-forms'),
-        require('@tailwindcss/ui'),
+        require('@tailwindcss/forms'),
         plugin(({
             addUtilities,
             e,
